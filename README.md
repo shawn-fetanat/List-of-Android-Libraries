@@ -1,6 +1,6 @@
 List of Android Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shawn-fetanat/List-of-Android-Libraries)
 ======================
-A curated list of awesome Android libraries. Feel free to contrubute.
+A curated list of awesome Android libraries.
 
 ## Other Awesome List
 - [awesome-android](https://github.com/thanhtoan1196/awesome-android)
